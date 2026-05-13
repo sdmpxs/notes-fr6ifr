@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdmpxs.github.io/notes-fr6ifr/sitemap.xml
